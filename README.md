@@ -5,7 +5,7 @@ Demonstration of some of the code required to migrate client data from a Postgre
 
 ## Table of Contents
 
-1. ["sql_queries" Folder](README.md#sql_queries)
+1. ["sql_queries" Folder](README.md#sql_queries-folder)
 2. [Files with "1_"](README.md#files-with-"1_")
 3. [Files with "2_"](README.md#files-with-"2_")
 4. [Files with "3_"](README.md#files-with-"3_")
