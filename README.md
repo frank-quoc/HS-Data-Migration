@@ -40,3 +40,6 @@ Formats any "datetime" data into the appropriate Unix time (in milliseconds) as 
 Frank Ho - [@cuLyTech](https://twitter.com/culyTech)
 
 Project Link: [https://github.com/frank-quoc/HS-Data-Migration](https://github.com/frank-quoc/HS-Data-Migration)
+
+## Acknowledgements
+- [Hubspot API documentation](https://developers.hubspot.com/docs/api/overview)
