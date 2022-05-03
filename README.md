@@ -42,4 +42,4 @@ Frank Ho - [@cuLyTech](https://twitter.com/culyTech)
 Project Link: [https://github.com/frank-quoc/HS-Data-Migration](https://github.com/frank-quoc/HS-Data-Migration)
 
 ## Acknowledgements
-- [Hubspot API documentation](https://developers.hubspot.com/docs/api/overview)
+[Hubspot API documentation](https://developers.hubspot.com/docs/api/overview)
