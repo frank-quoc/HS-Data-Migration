@@ -10,8 +10,8 @@ Demonstration of some of the code required to migrate client data from a Postgre
 3. [Files with "2_"](README.md#files-with-2_)
 4. [Files with "3_"](README.md#files-with-3_)
 5. [Files with "4_"](README.md#files-with-4_)
-6. ["format_api.py"](README.md#format_api.py)
-7. ["unix_time.py"](README.md#unix_time.py)
+6. [format_api.py](README.md#format_api.py)
+7. [unix_time.py](README.md#unix_time.py)
 
 ## "sql_queries" Folder
 SQL code used to clean up example data.
@@ -28,10 +28,10 @@ A POST request to the "associations" endpoint will create assiociations between 
 ## Files with "4_"
 Similar to files with "2_", these files will now use SQL calls to migrate over engagements: calls, emails, meetings, and notes.
 
-## "format_api.py"
+## format_api.py
 A module with helper functions to get objects and engagements API ready to make any POST requests.
 
-## "unix_time.py"
+## unix_time.py
 Formats any "datetime" data into the appropriate Unix time (in milliseconds) as Hubspot records time this way.
 
 
