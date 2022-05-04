@@ -12,6 +12,8 @@ Demonstration of some of the code required to migrate client data from a Postgre
 5. [Files with "4_"](README.md#files-with-4_)
 6. [format_api.py](README.md#format_api)
 7. [unix_time.py](README.md#unix_time)
+8. [Contact](README.md#contact)
+9. [Acknowledgements](README.md#acknowledgements)
 
 ## "sql_queries" Folder
 SQL code used to clean up example data.
